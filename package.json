@@ -1,1 +1,19 @@
-{}
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "budget-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycy6/budget-tracker.git"
+  },
+  "author": "cyrilg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cycy6/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/cycy6/budget-tracker#readme"
+}
