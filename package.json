@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/cycy6/budget-tracker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body": "^5.1.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0",
+    "parser": "^0.1.4",
+    "web-push": "^3.4.4"
   }
 }
